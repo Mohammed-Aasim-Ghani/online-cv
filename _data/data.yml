@@ -168,23 +168,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Manual Testing
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: JQuery
+        level: 58%
 
-      - name: Angular
-        level: 98%
+      - name: PHP
+        level: 68%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: MYSQL
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Wordpress & Magento
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
