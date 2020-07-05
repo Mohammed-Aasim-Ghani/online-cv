@@ -65,6 +65,11 @@ education:
       university: Anna University 
       time: 2015 - 2017
       
+education:
+    - degree: Masters of Computer Science
+      university: Anna University 
+      time: 2015 - 2017
+      
 conteducation:
   - degree: Learn Python Programming Masterclass
     field: Python Language
