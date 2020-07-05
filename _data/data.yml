@@ -65,34 +65,10 @@ education:
       university: Anna University 
       time: 2015 - 2017
       
-conteducation:
-  - degree: Learn Python Programming Masterclass
-    field: Python Language
-    link-degree: "https://www.udemy.com/course/python-the-complete-python-developer-course/"
-    university: Udemy
-    link-university: "https://www.udemy.com/"
-    time: Python Language
-    
-  - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
-    field: Automation Frameworks - Java & Selenium
-    link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
-    university: Udemy
-    link-university: "https://www.udemy.com/"
-    time: Automation Frameworks with Java and Selenium  
-
-  - degree: Selenium with Python Full Course For Beginners
-    field: Automation Frameworks - Python & Selenium
-    link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
-    university: Youtube - SDET Channel
-    link-university: "https://www.youtube.com/user/pavanoltraining/about"
-    time: Automation Frameworks with Python & Selenium
-
-  - degree: Robot Framework Test Automation - Level 1 & 2
-    field: Automation Framework - Robot Framework & Python
-    link-degree: "https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me"
-    university: LinkedIn Learning
-    link-university: "https://www.linkedin.com/learning/"
-    time: Automation Framework - Robot Framework & Python
+education:
+    - degree: Masters of Computer Science
+      university: Anna University 
+      time: 2015 - 2017
       
 experiences:
     - role: Lead Developer
